@@ -3,11 +3,11 @@ A simple repository to show the basic GIT workflow learned in the begginerscours
 
 Details of the files stored:
 
-01-Quick-start.pdf =>>
+01-Quick-start.pdf =>> Git Quick Start Commands
 
-02-Editorinstall.pd =>>
+02-Editorinstall.pd =>> Text Editor Installation and Configuration for Windows (Notepad++) and MAC (TextMate 2) 
 
-03-BasicWorkflow.pdf =>>
+03-BasicWorkflow.pdf =>> List of Basic Commands in GIT.
 
 GIT Installation for Windows =>> Link to find the GIT community and the path to download GIT in Windows.
 
