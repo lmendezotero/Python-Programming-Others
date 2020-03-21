@@ -1,4 +1,4 @@
-# Python Programming and Others
+# Python Programming & Others
 A simple repository to show the basic GIT workflow learned in the begginerscourse.
 
 Details of the files stored:
