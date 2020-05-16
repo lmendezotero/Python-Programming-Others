@@ -1,3 +1,0 @@
-GIT Installation for Windows:
-
-https://git-scm.com/
